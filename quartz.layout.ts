@@ -30,7 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.RecentNotes({
-      title: "Recent Update",
+      title: "Most Recent",
       limit: 5
     })),
     Component.DesktopOnly(Component.Explorer({
@@ -49,7 +49,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Backlinks(),
     Component.TagList(),
     Component.MobileOnly(Component.RecentNotes({
-      title: "Most Recent",
+      title: "Recent Update",
       limit: 5
     })),
     Component.MobileOnly(Component.Explorer({
