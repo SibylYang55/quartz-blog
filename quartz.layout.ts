@@ -31,12 +31,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.RecentNotes({
       title: "Most Recent",
-      limit: 5
+      limit: 5,
       linkToMore: "S'Note/" as SimpleSlug, 
     })),
     Component.DesktopOnly(Component.RecentNotes({
       title: "Recent Life",
-      limit: 2
+      limit: 2,
       linkToMore: "S'Life/" as SimpleSlug, 
     })),
   ],
