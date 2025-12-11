@@ -35,8 +35,6 @@ export const defaultContentPageLayout: PageLayout = {
     })),
   ],
   right: [
-    Component.Backlinks(),
-    Component.TagList(),
     Component.Graph({
       localGraph: {
         linkDistance: 50,
@@ -45,6 +43,8 @@ export const defaultContentPageLayout: PageLayout = {
         linkDistance: 50,
       },
     }),
+    Component.Backlinks(),
+    Component.TagList(),
     Component.DesktopOnly(Component.Explorer({
       title: "Explore More",
     })),
