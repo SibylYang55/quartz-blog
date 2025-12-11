@@ -1,5 +1,5 @@
 ---
-title:
+title: Sibyl's Garden
 date: 2023-12-01T22:03:00
 ---
 
