@@ -29,10 +29,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.Search(),
     Component.MobileOnly(Component.Spacer()),
-    Component.DesktopOnly(Component.RecentNotes({
+    Component.RecentNotes({
       title: "Most Recent",
-      limit: 10
-    })),
+      limit: 5
+      linkToMore: "S'Note/" as SimpleSlug, 
+    }),
+    Component.RecentNotes({
+      title: "Most Recent",
+      limit: 2
+      linkToMore: "S'Life/" as SimpleSlug, 
+    }),
   ],
   right: [
     Component.Graph({
