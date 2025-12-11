@@ -2,7 +2,6 @@
 title: Sibyl's Garden
 date: 2023-12-01T22:03:00
 ---
-
 ![9f1413ae068c716f019052a716ae5322fedff08cda592-L4OkMb_fw1200.png](https://raw.githubusercontent.com/SibylYang55/tuchuang/master/img/9f1413ae068c716f019052a716ae5322fedff08cda592-L4OkMb_fw1200.png)
 I'm Sibyl from China. Now I live in Shenzhen, a city full of innovation and tolerance in the far south of China. I think I am a person with a wide range of interests, such as literature, art, CG illustrations, computers, data-related, etc., and I like to try new and interesting things. I will also pay attention to developments in business and management, which are relevant to my work.
 

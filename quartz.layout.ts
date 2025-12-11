@@ -31,13 +31,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.RecentNotes({
       title: "Most Recent",
-      limit: 5
-    })),
-    Component.DesktopOnly(Component.Explorer({
-      title: "Explore More",
+      limit: 10
     })),
   ],
   right: [
+    Component.Backlinks(),
+    Component.TagList(),
     Component.Graph({
       localGraph: {
         linkDistance: 50,
@@ -46,8 +45,9 @@ export const defaultContentPageLayout: PageLayout = {
         linkDistance: 50,
       },
     }),
-    Component.Backlinks(),
-    Component.TagList(),
+    Component.DesktopOnly(Component.Explorer({
+      title: "Explore More",
+    })),
     Component.MobileOnly(Component.RecentNotes({
       title: "Recent Update",
       limit: 5
