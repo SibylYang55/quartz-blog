@@ -11,8 +11,8 @@ The blue water sparkled in the sun. I went to the beach, put my hands under the 
 
 but I only see the blue sea in real life, one day, I thought about what the sea would look like if it turned pink, and then I painted this pink one.
 
-![image.png](https://raw.githubusercontent.com/SibylYang55/tuchuang/master/img/20231201231732.png)
-![image.png](https://raw.githubusercontent.com/SibylYang55/tuchuang/master/img/20231201231831.png)
+![image.png|140](https://raw.githubusercontent.com/SibylYang55/tuchuang/master/img/20231201231732.png)
+![image.png|140](https://raw.githubusercontent.com/SibylYang55/tuchuang/master/img/20231201231831.png)
 
 一直以为我喜欢的是海大部分时候的沉稳平静，其实真正喜欢的是偶尔显露出来的激烈热情。就像人生一样，你以为你的人生是时时刻刻，其实追求的只是某些汹涌澎湃的时刻，这些水平线上偶尔激烈的瞬间远远超过绝大部分的水平线波澜。
 
